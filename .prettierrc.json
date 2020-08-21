@@ -1,3 +1,7 @@
 {
-  "jsxSingleQuote": true
+  "jsxSingleQuote": true,
+  "singleQuote": true,
+  "jsxBracketSameLine": true,
+  "arrowParens": "avoid",
+  "semi": false
 }

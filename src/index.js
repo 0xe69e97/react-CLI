@@ -1,6 +1,6 @@
-console.log(123);
-import React from "react";
-import ReactDOM from "react-dom";
-import App from "./App.js";
+console.log(123)
+import React from 'react'
+import ReactDOM from 'react-dom'
+import App from './App.tsx'
 
-ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById('root'))
